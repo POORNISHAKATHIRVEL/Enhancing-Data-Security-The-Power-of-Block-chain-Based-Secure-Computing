@@ -3,7 +3,7 @@
 2. Install netbeans which attached (Just give next and next)
 3. Install Mysql (It ask for root password, at that time Give "password" as password for mysql)
 https://www.youtube.com/watch?v=07FKc2ON3Yc
-4 Install sql yog
+4. Install sql yog
 After installation and while opening the sql yog, you have to give new connection option and give any name for that connection, then give "password" as password and give connect, Then Go to File->open in Sql yog, browse option will come, you choose the db file in the db folder of the project folder which I sent to you, After opening the file then give execute all queries button in sql yog.
 Then Open the netbeans which was installed, then open the project folder which I mailed as your code. Then right click and run the project.
 
