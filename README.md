@@ -8,7 +8,7 @@ After installation and while opening the sql yog, you have to give new connectio
 Then Open the netbeans which was installed, then open the project folder which I mailed as your code. Then right click and run the project.
 
 SOFTWARE TO BE INSTALLED
-jdk-8u102-windows-x64.rar
-netbeans-8.0.1-javaee-windows.rar
-MySQL-Setup.rar
-SQLyog513.rar
+1. jdk-8u102-windows-x64.rar
+2. netbeans-8.0.1-javaee-windows.rar
+3' MySQL-Setup.rar
+4. SQLyog513.rar
