@@ -10,5 +10,5 @@ Then Open the netbeans which was installed, then open the project folder which I
 SOFTWARE TO BE INSTALLED
 1. jdk-8u102-windows-x64.rar
 2. netbeans-8.0.1-javaee-windows.rar
-3' MySQL-Setup.rar
+3. MySQL-Setup.rar
 4. SQLyog513.rar
